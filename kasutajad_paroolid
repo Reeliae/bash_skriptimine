@@ -4,7 +4,7 @@
 if [ $# -ne 1 ]; then
     echo "Kasutusjuhend: $0 failinimi"
 else
-failinimi=Â$1
+failinimi=$1
   if [ -f $failinimi -a -r $failinimi ]; then
     echo "fail on korras"
     for rida in $(cat $failinimi)
