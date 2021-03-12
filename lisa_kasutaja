@@ -1,8 +1,6 @@
 # kasutaja lisamise skript
 # kasutaja nimi tuleb anda skripti parameetrina
-# skript peab antud nimega kasutajat lisama süsteemi
-# ning looma kasutajale vastava sisuga kodukataloogi
-# ja pakkuma sobilik koorik
+# skript peab antud nimega kasutajat lisama süsteem ja  kodukataloogi
 #
 # võime lisada ka kasutusjuhendi, kui midagi valesti käivitame või unustame kasutajanimi edasi anda
 # käsurea kaudu parameetrite arv on $# sees olev number, meie korral peab olema 1 parameeter - kasutajanimi
