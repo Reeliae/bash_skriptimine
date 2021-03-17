@@ -6,7 +6,7 @@
 # käsurea kaudu parameetrite arv on $# sees olev number, meie korral peab olema 1 parameeter - kasutajanimi
 # kui aga antud parameeter ei ole lisatud - tuleb juhendada kasutajat, kuidas skriptiga tööd teha
 if [ $# -ne 1 ]; then
-    echo "Kasutusjuhend: $0 kasutajanimi"	
+    echo "Kasutusjuhend: sh $0 kasutajanimi"	
 else
   # defineerime vajalik muutuja kasutajanimi salvestamiseks
   # kuna andmed edastatakse käsurealt skripti parameetrina, siis need on $1 $2 jne
