@@ -18,6 +18,5 @@ echo "$rida | chpasswd
   else
     echo "probleem failiga $failinimi"
   fi
-# parameetrite kontrolli lõpp
+# parameetrite kontrolli lõp
 fi
-
