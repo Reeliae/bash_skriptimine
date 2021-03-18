@@ -1,5 +1,6 @@
 #!/bin/bash
 #
+#
 # kasutajate lisamise skript
 if [ $# -ne 2 ]; then
     echo "Kasutusjuhend: $0 kasutajad ja paroolid"
